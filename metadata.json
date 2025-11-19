@@ -1,0 +1,7 @@
+{
+  "name": "Storyverse: Multi-Lingual Tales",
+  "description": "A dynamic dashboard for generating and reading localized children's stories across various categories and age groups using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
